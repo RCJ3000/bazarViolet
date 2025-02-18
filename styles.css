@@ -6,8 +6,10 @@ body {
 }
 
 header {
-    background-color: #ff5722;
-    color: white;
+    background-color: #f5f0ee;
+    font-family: Brush Script MT;
+    font-size: 25px;
+    color: rgb(67, 16, 72);
     padding: 15px;
     text-align: center;
 }
@@ -27,6 +29,54 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
 }
+
+/* Contenedor del banner */
+.banner {
+    display: flex;
+    align-items: center;  /* Centra verticalmente la imagen y la frase */
+    justify-content: center; /* Centra el contenido horizontalmente */
+    background-color: #ff5722;
+    padding: 20px;
+    border-bottom: 2px solid #ddd; /* Línea separadora */
+}
+
+/* Imagen dentro del banner */
+.banner img {
+    width: 300px; /* Ajusta el tamaño de la imagen */
+    height: auto;
+    margin-right: 50px; /* Espacio entre la imagen y la frase */
+    border-radius: 10px; /* Bordes redondeados */
+}
+
+/* Estilos generales del texto */
+.banner .frase {
+    font-family: "Luminari";
+    font-size: 8vw;  /* Mantiene el tamaño grande */
+    font-weight: bold;
+    color: rgb(67, 16, 72);  /* Mantiene el color */
+    text-align: center; /* Centra el texto */
+    line-height: 1.2; /* Ajusta el espaciado entre líneas */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Asegura que ambas partes estén alineadas */
+}
+
+/* Asegura que cada parte esté en una línea separada */
+.banner .frase span {
+    display: block;
+    width: 100%; /* Mantiene el ancho de la línea */
+    text-align: center; /* Centra el texto */
+}
+
+/* Diferencia el tamaño de las líneas */
+.banner .parte-superior {
+    font-size: 55px;  /* Un poco más grande */
+}
+
+.banner .parte-inferior {
+    font-size: 45px;  /* Un poco más pequeño */
+}
+
 
 .productos {
     display: flex;
@@ -99,4 +149,103 @@ footer {
 .mapa {
     border: 0;
     max-width: 100%; /* Para que no se pase del ancho en móviles */
+}
+
+/* Estilos para el menú lateral */
+.menu-lateral {
+    position: fixed; /* Hace que el menú se quede fijo */
+    top: 0; /* Lo alinea en la parte superior */
+    left: 0; /* Lo alinea a la izquierda */
+    width: 180px; /* Ancho del menú */
+    background-color: rgb(67, 16, 72); /* Color de fondo */
+    padding-top: 20px;
+    height: 100vh; /* Ocupa toda la altura de la pantalla */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra los elementos */
+}
+
+/* Ajusta la lista dentro del menú */
+.menu-lateral ul {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+/* Estilos de los ítems del menú */
+.menu-lateral li {
+    width: 100%;
+    margin: 10px 0;
+}
+
+/* Estilos de los enlaces del menú */
+.menu-lateral a {
+    text-decoration: none;
+    color: #ff5722;
+    display: block;
+    padding: 12px;
+    background: rgb(67, 16, 72);
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+/* Efecto hover */
+.menu-lateral a:hover {
+    background: #7d1d7f;
+}
+
+/* Ajusta el contenido para que no quede tapado por el menú */
+body {
+    margin-left: 160px; /* Ajusta el espacio del contenido para que no quede tapado */
+}
+
+/* Hace que el enlace "Inicio" te lleve arriba */
+.menu-lateral a[href="#"] {
+    cursor: pointer;
+}
+
+/* Ajustes para pantallas móviles (máximo 768px) */
+@media (max-width: 768px) {
+    /* Menú lateral */
+    .menu-lateral {
+        width: 40px; /* Reduce el ancho del menú lateral en pantallas pequeñas */
+        height: 100vh; /* Permite que el menú se adapte a la altura del contenido */
+    }
+
+    /* Contenido principal */
+    body {
+        margin-left: 30px; /* Elimina el margen izquierdo en pantallas pequeñas */
+    }
+
+    /* Banner */
+    .banner {
+        flex-direction: column; /* Coloca el banner (imagen y texto) en columna */
+        width: 90%; /* El banner ocupa todo el ancho disponible */
+    }
+
+    .banner img {
+        width: 20%; /* La imagen ocupa todo el ancho */
+        height: auto; /* Mantiene la proporción de la imagen */
+        margin-right: 0; /* Elimina el margen entre la imagen y el texto */
+    }
+
+    /* Estilo de la frase dentro del banner */
+    .banner .frase {
+        width: 70%;
+        font-size: 2vw;  /* Ajusta el tamaño de fuente para dispositivos móviles */
+        text-align: center; /* Centra el texto */
+    }
+
+    /* Ajusta los enlaces del menú lateral */
+    .menu-lateral a {
+        font-size: 5px; /* Reduce el tamaño de los enlaces en pantallas pequeñas */
+        padding: 10px; /* Ajusta el espacio de los enlaces */
+    }
+
+    /* Asegura que el contenido principal no quede tapado */
+    .contenido-principal {
+        margin-left: 0; /* Elimina el margen cuando el menú lateral no está en su lugar */
+        padding: 10px; /* Ajusta el espacio en el contenido */
+    }
 }
