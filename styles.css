@@ -87,3 +87,16 @@ footer {
     padding: 10px;
     margin-top: 20px;
 }
+
+.mapa-contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0; /* Opcional: añade margen arriba y abajo */
+}
+
+.mapa {
+    border: 0;
+    max-width: 100%; /* Para que no se pase del ancho en móviles */
+}
