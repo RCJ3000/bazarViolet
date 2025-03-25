@@ -30,6 +30,13 @@ nav ul li a {
     font-weight: bold;
 }
 
+#productos-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
 .productos {
     display: flex;
     justify-content: center;
