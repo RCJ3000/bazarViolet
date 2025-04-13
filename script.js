@@ -1,3 +1,21 @@
+document.addEventListener("DOMContentLoaded", () => {
+    const toggle = document.getElementById("menu-toggle");
+    const menu = document.getElementById("menuLateral");
+
+    let isMenuOpen = false;
+
+    toggle.addEventListener("click", () => {
+        isMenuOpen = !isMenuOpen;
+        menu.classList.toggle("active");
+        
+        // Cambia el ícono del botón según el estado
+        toggle.textContent = isMenuOpen ? "✖" : "☰"; // Cambia entre '☰' y '✖'
+    });
+});
+
+
+
+
 // Función para obtener la información del producto desde el archivo JSON y redirigir a WhatsApp
 function comprar(productoId) {
     // Obtener el archivo JSON de productos localmente
