@@ -591,14 +591,14 @@
         "id": 85,
         "nombre": "Zapatillas Campus Negras",
         "descripcion": "Talles 35 al 44",
-        "precio": 28000.0,
+        "precio": 23000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-CAMPUS-NEGRAS-TALLE-41.jpeg"
     },
     {
         "id": 86,
         "nombre": "Zapatillas Nike clásicas Blancas",
         "descripcion": "Talles 35 al 44",
-        "precio": 25000.0,
+        "precio": 20000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-NIKE-CLASICAS-BLANCAS-TALLE-37.jpeg"
     },
     {

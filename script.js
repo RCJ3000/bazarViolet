@@ -53,8 +53,16 @@ function cargarProductos() {
         .then(response => response.json()) // Convertir la respuesta a JSON
         .then(productos => {
             const contenedor = document.getElementById('productos-container');  // Contenedor donde se mostrarán los productos
+            
+            // Detectar la página actual
+            const esPaginaZapatillas = window.location.pathname.includes('zapatillas.html');
 
-            productos.forEach(producto => {
+            // Filtrar los productos si estamos en zapatillas.html
+            const productosFiltrados = esPaginaZapatillas
+                ? productos.filter(producto => producto.id >= 85 && producto.id <= 96)
+                : productos;
+            
+            productosFiltrados.forEach(producto => {
                 // Crear el HTML para cada producto
                 const productoElemento = document.createElement('article');
                 productoElemento.classList.add('producto');
