@@ -409,28 +409,28 @@
         "id": 59,
         "nombre": "Frasco Vidrio Tapa Aluminio",
         "descripcion": "Capacidad: 900ML",
-        "precio": 5500.0,
+        "precio": 10000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/FRASCO-VIDRIO-TAPA-ALUMINIO-900-ML.jpg"
     },
     {
         "id": 60,
         "nombre": "Frascos De Vidrio Con Resorte",
         "descripcion": "Capacidad: 500ML",
-        "precio": 6500.0,
+        "precio": 10000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/FRASCOS-VIDRIOS-RESORTE-500-900-1300-ML.jpg"
     },
     {
         "id": 61,
         "nombre": "Frascos De Vidrio Con Resorte",
         "descripcion": "Capacidad: 900ML",
-        "precio": 7000.0,
+        "precio": 11500.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/FRASCOS-VIDRIOS-RESORTE-500-900-1300-ML.jpg"
     },
     {
         "id": 62,
         "nombre": "Frascos De Vidrio Con Resorte",
         "descripcion": "Capacidad: 1300ML",
-        "precio": 7500.0,
+        "precio": 13000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/FRASCOS-VIDRIOS-RESORTE-500-900-1300-ML.jpg"
     },
     {
