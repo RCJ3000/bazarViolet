@@ -673,6 +673,34 @@
     },
     {
         "id": 97,
+        "nombre": "Zapatillas VANS All Crash",
+        "descripcion": "Bordo-Talles a consultar.",
+        "precio": 15000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-VANS-ALL-CRASH-BORDO-40-41.jpeg"
+    },
+    {
+        "id": 98,
+        "nombre": "Zapatillas VANS All Crash",
+        "descripcion": "Cuadril-Talles 35 al 44",
+        "precio": 15000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-VANS-ALL-CRASH-CUADRILLA-40-41.jpeg"
+    },
+    {
+        "id": 99,
+        "nombre": "Zapatillas VANS All Crash",
+        "descripcion": "Talles a consultar",
+        "precio": 15000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-VANS-ALL-CRASH-GRIS-35-36-40-42.jpeg"
+    },
+    {
+        "id": 100,
+        "nombre": "Zapatillas ARHEGIS",
+        "descripcion": "Talles a consultar",
+        "precio": 17500.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-AHRENGI-VERDE.jpeg"
+    },
+    {
+        "id": 101,
         "nombre": "TV Box 4K Time",
         "descripcion": "Android - Comando de Voz",
         "precio": 45000.0,
