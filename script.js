@@ -59,7 +59,7 @@ function cargarProductos() {
 
             // Filtrar los productos si estamos en zapatillas.html
             const productosFiltrados = esPaginaZapatillas
-                ? productos.filter(producto => producto.id >= 85 && producto.id <108 )
+                ? productos.filter(producto => producto.id >= 85 && producto.id <110 )
                 : productos;
             
             productosFiltrados.forEach(producto => {
