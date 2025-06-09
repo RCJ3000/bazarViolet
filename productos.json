@@ -3,7 +3,7 @@
         "id": 1,
         "nombre": "Pava Acero 2L",
         "descripcion": "Pava de Acero 2L - 12CM",
-        "precio": 15000.0,
+        "precio": 21000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-2L-ACERO-12CM.jpg"
     },
     {
@@ -24,28 +24,28 @@
         "id": 4,
         "nombre": "Cesto Cuadrado 6L",
         "descripcion": "Cesto Cuadrado 6L - Tapa Soft",
-        "precio": 35000.0,
+        "precio": 37500.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CESTO-6L-CUADRADO-C-PEDAL-blanco-y-negro-TAPA-SOFT2.jpg"
     },
     {
         "id": 5,
         "nombre": "Cesto Cuadrado 8L",
         "descripcion": "Cesto Cuadrado 8L - Tapa Soft",
-        "precio": 40000.0,
+        "precio": 50000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CESTO-8L-CUADRADO-C-PEDAL-blanco-y-negro-TAPA-SOFT3.jpg"
     },
     {
         "id": 6,
         "nombre": "Cesto Cilíndrico 5L",
         "descripcion": "Cesto cilíndrico de 5L - Tapa bamboo",
-        "precio": 25000.0,
+        "precio": 32000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CESTO-C-PEDAL-5-LTS.-BLANCO-TAPA-DE-BAMBOO-SOFT-CLOSE-byn.jpg"
     },
     {
         "id": 7,
         "nombre": "Cesto con pedal de 5L",
-        "descripcion": "Acero marca Suka.",
-        "precio": 27000.0,
+        "descripcion": "AGOTADO/SIN STOCK",
+        "precio": 37000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CESTO-C-PEDAL-5-LTS.jpg"
     },
     {
@@ -66,49 +66,49 @@
         "id": 10,
         "nombre": "Pava Enlozada",
         "descripcion": "Pava enlozada diseño Organics",
-        "precio": 10000.0,
+        "precio": 16000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ENLOZADA-ORGANICS.png"
     },
     {
         "id": 11,
         "nombre": "Pava Enlozada",
         "descripcion": "Pava enlozada diseño Reoona floreado",
-        "precio": 12000.0,
+        "precio": 16000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ENLOZADA-REOONA-FLOREADA.png"
     },
     {
         "id": 12,
         "nombre": "Pava Enlozada",
         "descripcion": "Pava enlozada diseño Saemmi frutas",
-        "precio": 12000.0,
+        "precio": 16000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ENLOZADA-SAEMMI-FRUTAS.png"
     },
     {
         "id": 13,
         "nombre": "Jarros Enlozados(xUnidad)",
-        "descripcion": "Medidas:6,5CM",
-        "precio": 12000.0,
+        "descripcion": "AGOTADO/SIN STOCK-Medidas:6,5CM",
+        "precio": 13000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SET-JARROS-ENLOZADOS-SUKA-BAZAR-1.jpg"
     },
     {
         "id": 14,
         "nombre": "Jarros Enlozados(xUnidad)",
-        "descripcion": "Medidas:8,8CM",
-        "precio": 13000.0,
+        "descripcion": "AGOTADO/SIN STOCK-Medidas:8,8CM",
+        "precio": 14000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SET-JARROS-ENLOZADOS-SUKA-BAZAR-1.jpg"
     },
     {
         "id": 15,
         "nombre": "Jarros Enlozados(xUnidad)",
-        "descripcion": "Medidas:10,8CM",
-        "precio": 14000.0,
+        "descripcion": "AGOTADO/SIN STOCK-Medidas:10,8CM",
+        "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SET-JARROS-ENLOZADOS-SUKA-BAZAR-1.jpg"
     },
     {
         "id": 16,
         "nombre": "Jarros Enlozados(xUnidad)",
-        "descripcion": "Medidas:13CM",
-        "precio": 15000.0,
+        "descripcion": "AGOTADO/SIN STOCK-Medidas:13CM",
+        "precio": 16000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SET-JARROS-ENLOZADOS-SUKA-BAZAR-1.jpg"
     },
     {
@@ -121,56 +121,56 @@
     {
         "id": 18,
         "nombre": "Plato Playo Enlozado diseño Organics(xUnidad)",
-        "descripcion": "Medidas:25CM",
+        "descripcion": "AGOTADO/SIN STOCK-Medidas:25CM",
         "precio": 12000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PLATO-PLAYO-ENLOZADO-B.jpg"
     },
     {
         "id": 19,
         "nombre": "Cacerolas Enlozadas Organics",
-        "descripcion": "Set 4 cacerolas con tapa",
-        "precio": 60000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SET-X4-CACEROLAS-ENLOZADAS-ORGANICS.jpg"
+        "descripcion": "Set 5 cacerolas con tapa",
+        "precio": 65000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SET-X4-CACEROLAS-ENLOZADAS-ORGANICS.jpeg"
     },
     {
         "id": 20,
         "nombre": "Batería de Cocina 5 Piezas",
         "descripcion": "Medidas:24CM-24CM-18CM",
-        "precio": 110000.0,
+        "precio": 120000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/BATERIA-DE-COCINA-5-PIEZAS-blanco.jpg"
     },
     {
         "id": 21,
         "nombre": "Batería de Cocina 5 Piezas",
         "descripcion": "Medidas:24CM-24CM-18CM",
-        "precio": 110000.0,
+        "precio": 120000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/BATERIA-DE-COCINA-5-PIEZAS-GRIS.jpg"
     },
     {
         "id": 22,
         "nombre": "Bifera Antiadherente Cerámica Aqua negro(xUnidad)",
-        "descripcion": "Doble capa, de 28x28CM",
-        "precio": 35000.0,
+        "descripcion": "AGOTADO/SIN STOCK-Medidas:28x28CM",
+        "precio": 37000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/BIFERA-ANTIADHERENTE-AQUA-NEGRO.jpg"
     },
     {
         "id": 23,
         "nombre": "Cacerola Antiadherente Cerámica Aqua Negro(xUnidad)",
         "descripcion": "Doble capa - 24CM",
-        "precio": 37000.0,
+        "precio": 40000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CACEROLAS-ANTIADHERENTE-AQUAA-NEGRO-ASA.jpg"
     },
     {
         "id": 24,
         "nombre": "Cacerola Antiadherente Cerámica Aqua Negro(xUnidad)",
         "descripcion": "Doble capa - 18CM",
-        "precio": 25000.0,
+        "precio": 32000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CACEROLAS-ANTIADHERENTE-NEGRO-AQUAA.jpg"
     },
     {
         "id": 25,
         "nombre": "Jarro antiadherente Cerámica Aqua negro(xUnidad)",
-        "descripcion": "Doble capa - 11CM",
+        "descripcion": "AGOTADO/SIN STOCK-Doble capa - 11CM",
         "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/JARRO-ANTIADHERENTE-AQUA-NEGRO-11cm.jpg"
     },
@@ -179,7 +179,7 @@
         "nombre": "Jarro antiadherente Cerámica Aqua negro(xUnidad)",
         "descripcion": "Doble capa - 14CM",
         "precio": 17000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/JARRO-ANTIADHERENTE-NEGRO-AQUAA.jpg"
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/JARRO-ANTIADHERENTE-NEGRO-AQUAA.png"
     },
     {
         "id": 27,
@@ -191,7 +191,7 @@
     {
         "id": 28,
         "nombre": "Sartén antiadherente Cerámica Aqua(xUnidad)",
-        "descripcion": "Doble capa, de 20Cm",
+        "descripcion": "AGOTADO/SIN STOCK-Doble capa, de 20Cm",
         "precio": 30000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SARTENES-ANTIADHERENTES-AQUA.jpg"
     },
@@ -213,56 +213,56 @@
         "id": 31,
         "nombre": "Set 3 Cacerolas Cerámicas - 5 Piezas",
         "descripcion": "Doble capa",
-        "precio": 100000.0,
+        "precio": 105000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SET-X3-CACEROLAS-ANTIADHERENTE-AQUAA-NEGRO-ASA-scaled.jpg"
     },
     {
         "id": 32,
         "nombre": "Cacerola Antiadherente Verde Melange Premium",
         "descripcion": "Doble capa, con mango madera de 18CM",
-        "precio": 22000.0,
+        "precio": 35000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CACEROLA-ANTIADHERENTE-18-CM-VERDE-MELANGE-PREMIUM-CON-MANGO-DE-MADERA.jpg"
     },
     {
         "id": 33,
         "nombre": "Jarro Antiadherente Verde Melange Premium(xUnidad)",
         "descripcion": "Doble capa, de 11Cm",
-        "precio": 15000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/JARRO-ANTIADHERENTE-11-y-13CM-VERDE-MELANGE-PREMIUM.jpg"
+        "precio": 18000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/JARRO-ANTIADHERENTE-11-CM-VERDE-MELANGE-PREMIUM.jpg"
     },
     {
         "id": 34,
         "nombre": "Jarro Antiadherente Verde Melange Premium(xUnidad)",
         "descripcion": "Doble capa, de 14CM",
-        "precio": 17000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/JARRO-ANTIADHERENTE-11-y-13CM-VERDE-MELANGE-PREMIUM.jpg"
+        "precio": 22000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/JARRO-ANTIADHERENTE-14-CM-VERDE-MELANGE-PREMIUM.jpg"
     },
     {
         "id": 35,
         "nombre": "Panquequera Antiadherente Verde Melange",
         "descripcion": "Doble capa - 22Cm",
-        "precio": 18000.0,
+        "precio": 26000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PANQUEQUERA-ANTIADHERENTE-22-CM-VERDE-MELANGE-PREMIUM.jpg"
     },
     {
         "id": 36,
         "nombre": "Sartén Antiadherente Verde Melange Premium",
         "descripcion": "Doble capa - 24CM",
-        "precio": 24000.0,
+        "precio": 33000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SARTEN-ANTIADHERENTE-VERDE-MELANGE-D.jpg"
     },
     {
         "id": 37,
         "nombre": "Wok Antiadherente Verde Melange Premium",
-        "descripcion": "Doble capa - 28CM",
-        "precio": 35000.0,
+        "descripcion": "AGOTADO/SIN STOCK-Medidas:28CM",
+        "precio": 37000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/WOK-ANTIADHERENTE-28-CM-VERDE-MELANGE-PREMIUM.jpg"
     },
     {
         "id": 38,
         "nombre": "Cacerola Antiadherente Verde Granito",
-        "descripcion": "Doble capa, con mango madera - 18CM",
-        "precio": 21000.0,
+        "descripcion": "AGOTADO/SIN STOCK-Medidas:18CM",
+        "precio": 35000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CACEROLA-ANTIADHERENTE-VERDE-GRANITO-D.jpg"
     },
     {
@@ -275,22 +275,22 @@
     {
         "id": 40,
         "nombre": "Sartén Antiadherente Verde Granito(xUnidad)",
-        "descripcion": "Doble capa, de 20Cm",
-        "precio": 24000.0,
+        "descripcion": "AGOTADO/SIN STOCK-Medidas:20Cm",
+        "precio": 31000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SARTEN-ANTIADHERENTE-VERDE-GRANITO.jpg"
     },
     {
         "id": 41,
         "nombre": "Sartén Antiadherente Verde Granito(xUnidad)",
         "descripcion": "Doble capa, de 24CM",
-        "precio": 26000.0,
+        "precio": 33000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SARTEN-ANTIADHERENTE-VERDE-GRANITO.jpg"
     },
     {
         "id": 42,
         "nombre": "Sartén Antiadherente Verde Granito(xUnidad)",
         "descripcion": "Doble capa, de 26CM",
-        "precio": 28000.0,
+        "precio": 34000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SARTEN-ANTIADHERENTE-VERDE-GRANITO.jpg"
     },
     {
@@ -353,7 +353,7 @@
         "id": 51,
         "nombre": "Porta Utensilios de Bamboo",
         "descripcion": "Medidas: 10,3x16,2CM",
-        "precio": 16000.0,
+        "precio": 20000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PORTA-UTENSILIOS-BAMBOO.png"
     },
     {
@@ -365,9 +365,9 @@
     },
     {
         "id": 53,
-        "nombre": "Organizador de Cubiertos de Bamboo",
+        "nombre": "Tabla Bamboo Mango Aluminio",
         "descripcion": "Medidas: 33x24CM",
-        "precio": 10000.0,
+        "precio": 12000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/TABLA-BAMBOO-CON-MANGO-ALUMINIO.png"
     },
     {
@@ -380,20 +380,20 @@
     {
         "id": 55,
         "nombre": "Canasto Bamboo Rectangualar Doble Natural",
-        "descripcion": "Medidas: 52x32x60CM",
+        "descripcion": "AGOTADO/SIN STOCK-Medidas: 52x32x60CM",
         "precio": 35000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CANASTO-BAMBOO-RECTANGULAR-DOBLE-NATURAL.jpg"
     },
     {
         "id": 56,
         "nombre": "Canasto Bamboo Rectangualar Marrón",
-        "descripcion": "Medidas: 40x30x60CM",
+        "descripcion": "AGOTADO/SIN STOCK-Medidas: 40x30x60CM",
         "precio": 27000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CANASTO-BAMBOO-RECTANGULAR-DOBLE-MARRON.jpg"
     },
     {
         "id": 57,
-        "nombre": "Canasto Bamboo Redondo Natural",
+        "nombre": "Canasto Bamboo Redondo Natural/Marrón",
         "descripcion": "Capacidad: 48LTS",
         "precio": 27000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CANASTO-BAMBOO-REDONDO-NATURAL-48-LTS.jpg"
@@ -402,14 +402,14 @@
         "id": 58,
         "nombre": "Canasto Tela-Laundry",
         "descripcion": "Color Gris",
-        "precio": 25000.0,
+        "precio": 26000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CANASTO-TELA-LAUNDRY.jpg"
     },
     {
         "id": 59,
         "nombre": "Pava Acero Modern Kitchens Dorada",
-        "descripcion": "Silvadora - 2L",
-        "precio": 8000.0,
+        "descripcion": "AGOTADO/SIN STOCK-Silvadora/1.5L",
+        "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ACERO-MORDER-KITECHEN-DORADO.jpg"
     },
     {
@@ -430,14 +430,14 @@
         "id": 62,
         "nombre": "Frascos De Vidrio Con Resorte",
         "descripcion": "Capacidad: 900ML",
-        "precio": 11500.0,
+        "precio": 14000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/FRASCOS-VIDRIOS-RESORTE-500-900-1300-ML.jpg"
     },
     {
         "id": 63,
         "nombre": "Frascos De Vidrio Con Resorte",
-        "descripcion": "Capacidad: 1300ML",
-        "precio": 13000.0,
+        "descripcion": "AGOTADO/SIN STOCK-Capacidad: 1300ML",
+        "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/FRASCOS-VIDRIOS-RESORTE-500-900-1300-ML.jpg"
     },
     {
@@ -507,21 +507,21 @@
         "id": 73,
         "nombre": "Cuchillo BBQ",
         "descripcion": "Acero Inoxidable",
-        "precio": 5000.0,
+        "precio": 7000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CUCHILLO-BBQ-ACERO-INOXIDABLE.jpg"
     },
     {
         "id": 74,
         "nombre": "Espátula BBQ",
         "descripcion": "Acero Inoxidable",
-        "precio": 5500.0,
+        "precio": 7500.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ESPATULA-BBQ-ACERO-INOXIDABLE.png"
     },
     {
         "id": 75,
         "nombre": "Espátula BBQ Mango Madera",
         "descripcion": "Acero Inoxidable",
-        "precio": 6000.0,
+        "precio": 7500.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ESPATULA-MANGO-MADERA-BBQ-ACERO-INOXIDABLE.png"
     },
     {
@@ -542,14 +542,14 @@
         "id": 78,
         "nombre": "Set x3 Utensilios BBQ Mango Madera",
         "descripcion": "Acero Inoxidable",
-        "precio": 10000.0,
+        "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SET-X3-UTENSILIOS-BBQ-MANGO-MADERA-ACERO-INOXIDABLE.png"
     },
     {
         "id": 79,
         "nombre": "Tenedor BBQ",
         "descripcion": "Acero Inoxidable",
-        "precio": 4500.0,
+        "precio": 7000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/TENEDOR-BBQ-ACERO-INOXIDABLE.jpg"
     },
     {
@@ -575,7 +575,7 @@
     },
     {
         "id": 83,
-        "nombre": "Reloj Clásico Fondo Blanco",
+        "nombre": "Reloj Clásico Fondo Blanco/NEGRO",
         "descripcion": "Medidas: 25CM",
         "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/RELOJ-CLASICO-FONDO-BLANCO-25CM.jpg"
@@ -583,7 +583,7 @@
     {
         "id": 84,
         "nombre": "Reloj Pared Kitchen Retro Marco Rojo Negro",
-        "descripcion": "Medidas: 30CM",
+        "descripcion": "AGOTADO/SIN STOCK-Medidas: 30CM",
         "precio": 22000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/RELOJ-PARED-KITCHEN-RETRO-MARCO-ROJO-NEGRO-30CM.jpg"
     },
