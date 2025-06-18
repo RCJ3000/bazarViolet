@@ -3,7 +3,7 @@
         "id": 1,
         "nombre": "Pava Acero 2L",
         "descripcion": "Pava de Acero 2L - 12CM",
-        "precio": 15000.0,
+        "precio": 20000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-2L-ACERO-12CM.jpg"
     },
     {
@@ -248,7 +248,7 @@
         "id": 36,
         "nombre": "Sartén Antiadherente Verde Melange Premium",
         "descripcion": "Doble capa - 24CM",
-        "precio": 24000.0,
+        "precio": 32000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/SARTEN-ANTIADHERENTE-VERDE-MELANGE-D.jpg"
     },
     {
@@ -262,7 +262,7 @@
         "id": 38,
         "nombre": "Cacerola Antiadherente Verde Granito",
         "descripcion": "Doble capa, con mango madera - 18CM",
-        "precio": 21000.0,
+        "precio": 35000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CACEROLA-ANTIADHERENTE-VERDE-GRANITO-D.jpg"
     },
     {
