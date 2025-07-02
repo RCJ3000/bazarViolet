@@ -773,7 +773,35 @@
         "id": 111,
         "nombre": "Convector Eléctrico",
         "descripcion": "Star Trak - 3 Niveles(2KW)",
-        "precio": 37000.0,
+        "precio": 37000.00,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CONVECTOR-ELECTRICO-STAR-TRAK-2KW.jpg"
+    },
+    {
+        "id": 112,
+        "nombre": "Caloventor Eléctrico",
+        "descripcion": "Star Trak - 2 Niveles(2KW)",
+        "precio": 25000.00,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CALOVENTOR-ELECTRICO-NEGRO-STAR-TRAK-2KW.png"
+    },
+    {
+        "id": 113,
+        "nombre": "Pava Electrica Kanji Home",
+        "descripcion": "ACERO/Corte Automático - 1.8L",
+        "precio": 17000.00,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ELECTRICA-KANJI-HOME-1,8L.jpeg"
+    },
+    {
+        "id": 114,
+        "nombre": "Pava Eléctrica Negra Star Trak",
+        "descripcion": "Corte AUTO/Mate/CAFÉ - 1.8L",
+        "precio": 21000.00,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ELECTRICA-CON-CORTE-MATE-CAFE-1,8L.png"
+    },
+    {
+        "id": 115,
+        "nombre": "Pava Eléctrica Hytoshy",
+        "descripcion": "Colores:R/A/N/D - 2L",
+        "precio": 19000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-HYTOSHY-COLORES-2L.jpeg"
     }
 ]
