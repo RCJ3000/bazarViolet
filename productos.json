@@ -3,7 +3,7 @@
         "id": 1,
         "nombre": "Pava Acero 2L",
         "descripcion": "Pava de Acero 2L - 12CM",
-        "precio": 20000.0,
+        "precio": 18000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-2L-ACERO-12CM.jpg"
     },
     {
@@ -339,7 +339,7 @@
         "id": 49,
         "nombre": "Rack De Cocina",
         "descripcion": "Medidas: -",
-        "precio": 80000,
+        "precio": 60000,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/RACK-DE-COCINA-SECAPLATOS-85CM.png"
     },
     {
@@ -408,8 +408,8 @@
     {
         "id": 59,
         "nombre": "Pava Acero Modern Kitchens Dorada",
-        "descripcion": "Silvadora - 2L",
-        "precio": 8000.0,
+        "descripcion": "Silvadora-2L(Sin Stock)",
+        "precio": 10000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ACERO-MORDER-KITECHEN-DORADO.jpg"
     },
     {
