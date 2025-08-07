@@ -596,212 +596,59 @@
     },
     {
         "id": 86,
-        "nombre": "Zapatillas Campus Negras",
-        "descripcion": "Talles 35 al 44",
-        "precio": 23000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-CAMPUS-NEGRAS-TALLE-41.jpeg"
-    },
-    {
-        "id": 87,
-        "nombre": "Zapatillas Nike clásicas Blancas",
-        "descripcion": "Talles 35 al 44",
-        "precio": 20000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-NIKE-CLASICAS-BLANCAS-TALLE-37.jpeg"
-    },
-    {
-        "id": 88,
-        "nombre": "Zapatillas Nike clásicas Beige",
-        "descripcion": "Talles 35 al 44",
-        "precio": 25000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-NIKE-CLASICAS-BEIGE-TALLE-41.jpeg"
-    },
-    {
-        "id": 89,
-        "nombre": "Zapatillas ADIDAS",
-        "descripcion": "Talles 35 al 44",
-        "precio": 28000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ADIDAS-3-FRANJAS-MULTICOLOR.jpg"
-    },
-    {
-        "id": 90,
-        "nombre": "Zapatillas Adidas",
-        "descripcion": "Talles 35 al 44",
-        "precio": 28000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ADIDAS-BLANCAS-CON-GRIS-FRANJAS-ROSA.jpg"
-    },
-    {
-        "id": 91,
-        "nombre": "Zapatillas Adidas",
-        "descripcion": "Talles 35 al 44",
-        "precio": 28000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ADIDAS-BLANCAS-FRANJAS-NEGRAS.jpg"
-    },
-    {
-        "id": 92,
-        "nombre": "Zapatillas Adidas",
-        "descripcion": "Talles 35 al 44",
-        "precio": 28000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ADIDAS-FUXIA-BLANCAS-FRANJAS-3-COLORES.jpg"
-    },
-    {
-        "id": 93,
-        "nombre": "Zapatillas Adidas",
-        "descripcion": "Talles 35 al 44",
-        "precio": 28000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ADIDAS-GRIS-FRANJAS-3-COLORES.jpg"
-    },
-    {
-        "id": 94,
-        "nombre": "Zapatillas Adidas",
-        "descripcion": "Talles 35 al 44",
-        "precio": 28000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ADIDAS-NEGRAS-FRANJAS-BLANCAS.jpg"
-    },
-    {
-        "id": 95,
-        "nombre": "Zapatillas Nike Airmax",
-        "descripcion": "Talles 35 al 44",
-        "precio": 28000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-NIKE-AIRMAX-BLANCO-GRIS.jpeg"
-    },
-    {
-        "id": 96,
-        "nombre": "Zapatillas Nike Airmax",
-        "descripcion": "Talles 35 al 44",
-        "precio": 28000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-NIKE-AIRMAX-BLANCO-ROSADO.jpg"
-    },
-    {
-        "id": 97,
-        "nombre": "Zapatillas Nike Airmax",
-        "descripcion": "Talles 35 al 44",
-        "precio": 28000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-NIKE-AIRMAX-MULTICOLOR.jpg"
-    },
-    {
-        "id": 98,
         "nombre": "Zapatillas VANS All Crash Bordo",
         "descripcion": "Talles 34 al 43",
         "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-VANS-ALL-CRASH-BORDO-40-41.jpeg"
     },
+    
     {
-        "id": 99,
-        "nombre": "Zapatillas VANS All Crash",
-        "descripcion": "Cuadril-Talles 35 al 44",
-        "precio": 15000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-VANS-ALL-CRASH-CUADRILLA-40-41.jpeg"
-    },
-    {
-        "id": 100,
-        "nombre": "Zapatillas VANS All Crash",
-        "descripcion": "Talles 35 al 43",
-        "precio": 15000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-VANS-ALL-CRASH-GRIS-35-36-40-42.jpeg"
-    },
-    {
-        "id": 101,
-        "nombre": "Zapatillas ARHENGIS Confort Verde",
-        "descripcion": "Talles 35 al 43",
-        "precio": 17500.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ARHENGIS-CONFORT-VERDE.jpeg"
-    },
-    {
-        "id": 102,
-        "nombre": "Zapatillas ARHENGIS Confort Blanco",
-        "descripcion": "Talles 35 al 43",
-        "precio": 17500.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ARHENGIS-CONFORT-BLANCO.jpeg"
-    },
-    {
-        "id": 103,
-        "nombre": "Zapatillas ARHENGIS Confort Gris Topo",
-        "descripcion": "Talles 35 al 43",
-        "precio": 17500.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ARHENGIS-CONFORT-GRIS-TOPO.jpeg"
-    },
-    {
-        "id": 104,
-        "nombre": "Zapatillas ARHENGIS Confort Negra",
-        "descripcion": "Talles 35 al 43",
-        "precio": 17500.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ARHENGIS-CONFORT-NEGRA.jpeg"
-    },
-    {
-        "id": 105,
-        "nombre": "Zapatillas ARHENGIS Confort Negro Rosa",
-        "descripcion": "Talles 35 al 43",
-        "precio": 17500.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ARHENGIS-CONFORT-NEGRO-ROSA.jpg"
-    },
-    {
-        "id": 106,
-        "nombre": "Zapatillas ARHENGIS Confort Tommy",
-        "descripcion": "Talles 35 al 43",
-        "precio": 17500.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ARHENGIS-CONFORT-TOMMY.jpeg"
-    },
-    {
-        "id": 107,
-        "nombre": "Zapatillas ARHENGIS Confort Tricolor Verde",
-        "descripcion": "Talles 35 al 43",
-        "precio": 17500.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ARHENGIS-CONFORT-TRICOLOR-VERDE.jpeg"
-    },
-    {
-        "id": 108,
-        "nombre": "Zapatillas ARHENGIS Confort Verde Gris",
-        "descripcion": "Talles 35 al 43",
-        "precio": 17500.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-ARHENGIS-CONFORT-VERDE-GRIS.jpeg"
-    },
-    {
-        "id": 109,
-        "nombre": "Zapatillas Campus Roja",
-        "descripcion": "Talles 35 al 44",
-        "precio": 30000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ZAPATILLAS-CAMPUS-ROJA.png"
-    },
-    {
-        "id": 110,
+        "id": 87,
         "nombre": "TV Box 4K Time",
         "descripcion": "Android - Comando de Voz",
         "precio": 45000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/TV-BOX-4K-ANDROID-CON-COMANDO-DE-VOZ.jpeg"
     },
     {
-        "id": 111,
+        "id": 88,
         "nombre": "Convector Eléctrico",
         "descripcion": "Star Trak - 3 Niveles(2KW)",
         "precio": 37000.00,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CONVECTOR-ELECTRICO-STAR-TRAK-2KW.jpg"
     },
     {
-        "id": 112,
+        "id": 88,
         "nombre": "Caloventor Eléctrico",
         "descripcion": "Star Trak - 2 Niveles(2KW)",
         "precio": 25000.00,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CALOVENTOR-ELECTRICO-NEGRO-STAR-TRAK-2KW.png"
     },
     {
-        "id": 113,
+        "id": 89,
         "nombre": "Pava Electrica Kanji Home",
         "descripcion": "ACERO/Corte Automático - 1.8L",
         "precio": 17000.00,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ELECTRICA-KANJI-HOME-1,8L.jpeg"
     },
     {
-        "id": 114,
+        "id": 90,
         "nombre": "Pava Eléctrica Negra Star Trak",
         "descripcion": "Corte AUTO/Mate/CAFÉ - 1.8L",
         "precio": 21000.00,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ELECTRICA-CON-CORTE-MATE-CAFE-1,8L.png"
     },
     {
-        "id": 115,
+        "id": 91,
         "nombre": "Pava Eléctrica Hytoshy",
         "descripcion": "Colores:R/A/N/D - 2L",
         "precio": 19000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-HYTOSHY-COLORES-2L.jpeg"
+    },
+    {
+        "id": 92,
+        "nombre": "Escritorio PC Multicompartimento",
+        "descripcion": "Medidas: 101x45x121CM",
+        "precio": 140000,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/ESCRITORIO-PC-MULTICOMPARTIMENTO.jpeg"
     }
 ]
