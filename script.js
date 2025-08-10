@@ -57,7 +57,7 @@ function cargarProductos() {
             // Detectar la página actual
             const esPaginaPavasElectricas = window.location.pathname.includes('pavasElectricas.html');
 
-            // Filtrar los productos si estamos en zapatillas.html
+            // Filtrar los productos si estamos en pavasElectricas.html
             const productosFiltrados = esPaginaPavasElectricas
                 ? productos.filter(producto => producto.id >= 90 && producto.id <= 94)
                 : productos;
