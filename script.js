@@ -55,11 +55,11 @@ function cargarProductos() {
             const contenedor = document.getElementById('productos-container');  // Contenedor donde se mostrarán los productos
             
             // Detectar la página actual
-            const esPaginaZapatillas = window.location.pathname.includes('zapatillas.html');
+            const esPaginaPavasElectricas = window.location.pathname.includes('pavasElectricas.html');
 
             // Filtrar los productos si estamos en zapatillas.html
-            const productosFiltrados = esPaginaZapatillas
-                ? productos.filter(producto => producto.id == 86 )
+            const productosFiltrados = esPaginaPavasElectricas
+                ? productos.filter(producto => producto.id >= 90 && producto.id <= 94)
                 : productos;
             
             productosFiltrados.forEach(producto => {

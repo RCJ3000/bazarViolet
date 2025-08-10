@@ -646,6 +646,20 @@
     },
     {
         "id": 93,
+        "nombre": "Pava Eléctrica Hytoshy",
+        "descripcion": "ACERO-2L-2KW",
+        "precio": 19000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ACERO-HYTOSHY-2L.jpg"
+    },
+    {
+        "id": 94,
+        "nombre": "Pava Eléctrica APRILLA",
+        "descripcion": "ACERO",
+        "precio": 19000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ELECTRICA-APRILLA.jpeg"
+    },
+    {
+        "id": 95,
         "nombre": "Pava Acero 2L",
         "descripcion": "Pava de Acero 2L - 12CM",
         "precio": 18000.0,
