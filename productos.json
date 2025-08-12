@@ -8,17 +8,17 @@
     },
     {
         "id": 2,
-        "nombre": "Cepillo de Baño",
-        "descripcion": "Cepillos de baño con tapa de bamboo",
-        "precio": 15000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CEPILLO-DE-BANO-TAPA-DE-BAMBOO-NEGRO-Y-BLANCO.jpg"
+        "nombre": "Waflera ORYX",
+        "descripcion": "Antiadherente-2Wafles X Uso",
+        "precio": 26000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/WAFLERA-ORYX.png"
     },
     {
         "id": 3,
-        "nombre": "Cepillo de Baño",
-        "descripcion": "Marca Suka, 3 modelos",
-        "precio": 15000.0,
-        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CEPILLO-DE-BANO-X3.jpg"
+        "nombre": "Planca a Vapor KANJI HOME",  
+        "descripcion": "Termostato x Tela - Rociador",
+        "precio": 25000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PLANCHA-VAPOR-KANJI-HOME.png"
     },
     {
         "id": 4,
@@ -664,5 +664,19 @@
         "descripcion": "Pava de Acero 2L - 12CM",
         "precio": 18000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-2L-ACERO-12CM.jpg"
+    },
+    {
+        "id": 96,
+        "nombre": "Cepillo de Baño",
+        "descripcion": "Cepillos de baño con tapa de bamboo",
+        "precio": 15000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CEPILLO-DE-BANO-TAPA-DE-BAMBOO-NEGRO-Y-BLANCO.jpg"
+    },
+    {
+        "id": 97,
+        "nombre": "Cepillo de Baño",
+        "descripcion": "Marca Suka, 3 modelos",
+        "precio": 15000.0,
+        "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/CEPILLO-DE-BANO-X3.jpg"
     }
 ]
