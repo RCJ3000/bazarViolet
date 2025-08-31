@@ -59,7 +59,7 @@ function cargarProductos() {
 
             // Filtrar los productos si estamos en pavasElectricas.html
             const productosFiltrados = esPaginaPavasElectricas
-                ? productos.filter(producto => producto.id >= 90 && producto.id <= 94)
+                ? productos.filter(producto => producto.id >= 98 && producto.id <= 102)
                 : productos;
             
             productosFiltrados.forEach(producto => {
