@@ -122,21 +122,21 @@
         "id": 18,
         "nombre": "Pava Enlozada",
         "descripcion": "Pava enlozada diseño Organics",
-        "precio": 10000.0,
+        "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ENLOZADA-ORGANICS.png"
     },
     {
         "id": 19,
         "nombre": "Pava Enlozada",
         "descripcion": "Pava enlozada diseño Reoona floreado",
-        "precio": 12000.0,
+        "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ENLOZADA-REOONA-FLOREADA.png"
     },
     {
         "id": 20,
         "nombre": "Pava Enlozada",
         "descripcion": "Pava enlozada diseño Saemmi frutas",
-        "precio": 12000.0,
+        "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ENLOZADA-SAEMMI-FRUTAS.png"
     },
     {
@@ -283,14 +283,14 @@
         "id": 41,
         "nombre": "Jarro Antiadherente Verde Melange Premium(xUnidad)",
         "descripcion": "Doble capa, de 11Cm",
-        "precio": 15000.0,
+        "precio": 17000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/JARRO-ANTIADHERENTE-11-y-13CM-VERDE-MELANGE-PREMIUM.jpg"
     },
     {
         "id": 42,
         "nombre": "Jarro Antiadherente Verde Melange Premium(xUnidad)",
         "descripcion": "Doble capa, de 14CM",
-        "precio": 17000.0,
+        "precio": 20000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/JARRO-ANTIADHERENTE-11-y-13CM-VERDE-MELANGE-PREMIUM.jpg"
     },
     {
@@ -465,7 +465,7 @@
         "id": 67,
         "nombre": "Pava Acero Modern Kitchens Dorada",
         "descripcion": "Silvadora-2L(Sin Stock)",
-        "precio": 10000.0,
+        "precio": 15000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-ACERO-MORDER-KITECHEN-DORADO.jpg"
     },
     {
@@ -717,7 +717,7 @@
         "id": 103,
         "nombre": "Pava Acero 2L",
         "descripcion": "Pava de Acero 2L - 12CM",
-        "precio": 18000.0,
+        "precio": 20000.0,
         "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/PAVA-2L-ACERO-12CM.jpg"
     },
     {
