@@ -8,7 +8,7 @@ def generar_codigo_qr(string_generador:str) -> None:
     imagen.save("qrcode.png")
     #generar_codigo_qr("https://wa.me/5491151465747?")
 
-def agregar_productos_en_json(nuevos_productos:dict) -> None:
+def agregar_productos_en_json() -> None:
     import json
     from collections import OrderedDict
     """
@@ -19,16 +19,22 @@ def agregar_productos_en_json(nuevos_productos:dict) -> None:
     # Diccionario de ejemplo de los Nuevos productos a insertar al inicio
     nuevos_productos_raw = [
         {
-            "nombre": "Ventilador Oryx",
-            "descripcion": "3 velocidades- 18 pulgadas",
-            "precio": 65000.0,
-            "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/VENTILADOR-ORIX-3-EN-1-18PULGADAS.jpeg"
+            "nombre": "Licuadora Kanji Home 2 en 1",
+            "descripcion": "4 velocidades-600W",
+            "precio": 47500.0,
+            "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/LICUADORA-KANJI-HOME-3-VELOCIDADES-18PULGADAS.jpeg"
         },
         {
-            "nombre": "Ventilador Martin & Martin",
-            "descripcion": "3 en 1 - 20 pulgadas",
-            "precio": 92000.0,
-            "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/VENTILADOR-MARTIN-&-MARTIN-3-EN-1-20PULAGADAS-PIE-PESADO.jpeg"
+            "nombre": "Licuadora Yelmo",
+            "descripcion": "1.5L - 750W",
+            "precio": 83000.0,
+            "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/LICUADORA-YELMO-CELESTE-3-EN-1-20PULGADAS.jpeg"
+        },
+        {
+            "nombre": "Licuadora ULTRACOMB Profesional",
+            "descripcion": "1.8L - 1200W",
+            "precio": 110000.0,
+            "imagen": "https://rcj3000.github.io/bazarViolet/im%C3%A1genes/LICUADORA-YELMO-CELESTE-3-EN-1-20PULGADAS.jpeg"
         }
     ]
     # Cargar productos existentes
